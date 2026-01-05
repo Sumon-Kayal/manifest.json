@@ -1,2 +1,2 @@
-# updater.json
-updates.json for https://github.com/Sumon-Kayal/Universal-Batoto-Image-Fixer.git
+# Manifest.json
+manifest.json v8.2 for https://github.com/Sumon-Kayal/Universal-Batoto-Image-Fixer.git
